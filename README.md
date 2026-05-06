@@ -204,4 +204,4 @@ while alive:
     improve()
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c853,100:00ff88&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:003b1f&height=120&section=footer&animation=fadeIn" />
