@@ -174,6 +174,14 @@ Distributed Systems | Spark | Databricks
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/amanksingh678/amanksingh678/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
 ## 🌐 Connect
 
 <p align="left">
