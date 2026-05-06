@@ -178,7 +178,7 @@ Distributed Systems | Spark | Databricks
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/amanksingh678/amanksingh678/output/ocean.gif" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/amanksingh678/amanksingh678/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
