@@ -11,7 +11,9 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=amanksingh678&label=Profile%20Views&color=00ff88&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/amanksingh678?label=Followers&style=for-the-badge&color=00ff88" />
-  <img src="https://img.shields.io/badge/LinkedIn-Aman%20Singh-00ff88?style=for-the-badge&logo=linkedin&logoColor=0b1f14" />
+  <a href="https://www.linkedin.com/in/aman-singh-a8481b32a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aman%20Singh-00ff88?style=for-the-badge&logo=linkedin&logoColor=0b1f14" />
+  </a>
 </p>
 
 <p>
@@ -32,7 +34,7 @@ $ focus --now
 AI Trading Systems | Data Science | Automation
 
 $ building --active
-signal-based trading bots, dashboards, OCR systems
+trading bots, backtests, dashboards, OCR systems
 
 $ learning --queue
 Distributed Systems | Spark | Databricks
@@ -55,8 +57,13 @@ Distributed Systems | Spark | Databricks
 
 <div align="center">
 
-<!-- Animated tech icons (snake-like motion) -->
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,pandas,numpy,docker,linux,git,github,vscode&theme=dark" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=amanksingh678&theme=matrix&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -79,29 +86,68 @@ Distributed Systems | Spark | Databricks
 
 ---
 
-## ⭐ Top Projects
+## ⭐ Top 6 Projects (Portfolio)
 
-> Picked from your repositories to highlight the strongest “portfolio” mix: **Trading + Dashboard + Desktop/Automation + Signal Scanner**.
+> Curated to look like a strong recruiter-friendly portfolio: **Trading Systems + Dashboards + Desktop App + GenAI/App Clone + Automation**.
 
-### 1) 🔥 Trading Bot (Crypto) — Signal-based strategies
-- **Repo:** https://github.com/amanksingh678/Trading_bot
-- **What it does:** Signal-based crypto trading bot with custom indicators & strategy logic
-- **Tech:** Python
-
-### 2) ���� SmartStockTracker — AI-driven stock/inventory monitoring
-- **Repo:** https://github.com/amanksingh678/Aman_Singh_DS_SmartStockTracker
-- **What it does:** Real-time monitoring + expiry tracking + multi-location warehouse dashboard
-- **Tech:** Python • Jupyter
-
-### 3) 🖥️ Screen Solver — Desktop automation / solver bundle
-- **Repo:** https://github.com/amanksingh678/Screen_Solver_main_bundle
-- **What it does:** A bundled desktop-style project (Python + QML + HTML) with a strong “product” feel
-- **Tech:** Python • QML • HTML
-
-### 4) 📈 Breakout Detection Bot — Scanner for breakout setups
-- **Repo:** https://github.com/amanksingh678/Breakout_detection_bot
-- **What it does:** Automated breakout scanner using price action / volume logic
-- **Tech:** Python
+<table>
+  <tr>
+    <td width="50%">
+      <h3>1) 🔥 Trading Bot (Crypto)</h3>
+      <p>Signal-based crypto trading bot with custom indicators & strategy logic.</p>
+      <p>
+        <a href="https://github.com/amanksingh678/Trading_bot">Repo</a> •
+        <img src="https://img.shields.io/badge/Python-00ff88?style=flat&logo=python&logoColor=0b1f14" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>2) 📊 SmartStockTracker</h3>
+      <p>AI-driven stock/inventory monitoring with expiry + multi-location warehouse dashboard.</p>
+      <p>
+        <a href="https://github.com/amanksingh678/Aman_Singh_DS_SmartStockTracker">Repo</a> •
+        <img src="https://img.shields.io/badge/Python-00ff88?style=flat&logo=python&logoColor=0b1f14" />
+        <img src="https://img.shields.io/badge/Jupyter-00ff88?style=flat&logo=jupyter&logoColor=0b1f14" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>3) 🖥️ Screen Solver (Bundle)</h3>
+      <p>Desktop-style bundled project (Python + QML + HTML) with strong “product” vibes.</p>
+      <p>
+        <a href="https://github.com/amanksingh678/Screen_Solver_main_bundle">Repo</a> •
+        <img src="https://img.shields.io/badge/Python-00ff88?style=flat&logo=python&logoColor=0b1f14" />
+        <img src="https://img.shields.io/badge/QML-00ff88?style=flat&logo=qt&logoColor=0b1f14" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>4) 📈 Breakout Detection Bot</h3>
+      <p>Automated breakout scanner using price action / volume logic.</p>
+      <p>
+        <a href="https://github.com/amanksingh678/Breakout_detection_bot">Repo</a> •
+        <img src="https://img.shields.io/badge/Python-00ff88?style=flat&logo=python&logoColor=0b1f14" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>5) 🧠 Indic OCR GAN Recognization</h3>
+      <p>OCR + deep learning project for Indic text recognition.</p>
+      <p>
+        <a href="https://github.com/amanksingh678/indic_ocr_gan_recognization">Repo</a> •
+        <img src="https://img.shields.io/badge/Python-00ff88?style=flat&logo=python&logoColor=0b1f14" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>6) 🤖 Perplexity Clone Bot</h3>
+      <p>A clone-style AI assistant project (great for GenAI showcase).</p>
+      <p>
+        <a href="https://github.com/amanksingh678/Perplexity_clone_bot">Repo</a> •
+        <img src="https://img.shields.io/badge/GenAI-00ff88?style=flat" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
