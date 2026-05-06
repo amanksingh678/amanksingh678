@@ -102,6 +102,8 @@ fun_fact: I debug with console.log and I'm not ashamed 😄
 
 ## 🐍 Contribution Snake
 
+> **Note:** The snake animation is generated automatically every day by the [Generate Snake Animation](.github/workflows/snake.yml) workflow. Run it manually once from the **Actions** tab to create the SVG for the first time.
+
 <div align="center">
 
 <picture>
