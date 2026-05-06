@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:00c853&height=190&section=header&text=Aman%20Singh&fontSize=56&fontColor=0b1f14&animation=twinkling&fontAlignY=36" />
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=900&color=00FF88&center=true&vCenter=true&width=980&lines=AI+%26+Data+Science+%7C+Trading+Systems+%7C+Automation;Python+Developer+%7C+Quant+Finance+Enthusiast;Computer+Vision+%7C+OCR+%7C+Deep+Learning;Building+systems+that+ship+%E2%80%94+fast+and+reliable" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=900&color=00FF88&center=true&vCenter=true&width=980&lines=AI+Engineer+%7C+Quant+Developer+%7C+Automation+Builder;AI+%26+Data+Science+%7C+Trading+Systems+%7C+Automation;Python+Developer+%7C+Quant+Finance+Enthusiast;Computer+Vision+%7C+OCR+%7C+Deep+Learning;Building+systems+that+ship+%E2%80%94+fast+and+reliable" />
 </p>
 
 <p>
@@ -29,6 +29,9 @@
 ```bash
 $ whoami
 Aman Singh
+
+$ specialization
+AI Engineer | Quant Developer | Automation Builder
 
 $ focus --now
 AI Trading Systems | Data Science | Automation
@@ -88,20 +91,39 @@ Distributed Systems | Spark | Databricks
 
 ## ⭐ Top 6 Projects (Portfolio)
 
-> Curated to look like a strong recruiter-friendly portfolio: **Trading Systems + Dashboards + Desktop App + GenAI/App Clone + Automation**.
+> **Best Projects (highlight):** Trading Bot • Indic OCR • Screen Solver
 
 <table>
   <tr>
     <td width="50%">
-      <h3>1) 🔥 Trading Bot (Crypto)</h3>
-      <p>Signal-based crypto trading bot with custom indicators & strategy logic.</p>
+      <h3>1) 🥇 Trading Bot (Crypto)</h3>
+      <p><b>Best project</b> — Signal-based crypto trading bot with custom indicators & strategy logic.</p>
       <p>
         <a href="https://github.com/amanksingh678/Trading_bot">Repo</a> •
         <img src="https://img.shields.io/badge/Python-00ff88?style=flat&logo=python&logoColor=0b1f14" />
       </p>
     </td>
     <td width="50%">
-      <h3>2) 📊 SmartStockTracker</h3>
+      <h3>2) 🥈 Indic OCR GAN Recognization</h3>
+      <p><b>Best project</b> — OCR + deep learning pipeline for Indic text recognition.</p>
+      <p>
+        <a href="https://github.com/amanksingh678/indic_ocr_gan_recognization">Repo</a> •
+        <img src="https://img.shields.io/badge/Python-00ff88?style=flat&logo=python&logoColor=0b1f14" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>3) 🥉 Screen Solver (Bundle)</h3>
+      <p><b>Best project</b> — Desktop-style bundled project (Python + QML + HTML) with a product feel.</p>
+      <p>
+        <a href="https://github.com/amanksingh678/Screen_Solver_main_bundle">Repo</a> •
+        <img src="https://img.shields.io/badge/Python-00ff88?style=flat&logo=python&logoColor=0b1f14" />
+        <img src="https://img.shields.io/badge/QML-00ff88?style=flat&logo=qt&logoColor=0b1f14" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>4) 📊 SmartStockTracker</h3>
       <p>AI-driven stock/inventory monitoring with expiry + multi-location warehouse dashboard.</p>
       <p>
         <a href="https://github.com/amanksingh678/Aman_Singh_DS_SmartStockTracker">Repo</a> •
@@ -112,29 +134,10 @@ Distributed Systems | Spark | Databricks
   </tr>
   <tr>
     <td width="50%">
-      <h3>3) 🖥️ Screen Solver (Bundle)</h3>
-      <p>Desktop-style bundled project (Python + QML + HTML) with strong “product” vibes.</p>
-      <p>
-        <a href="https://github.com/amanksingh678/Screen_Solver_main_bundle">Repo</a> •
-        <img src="https://img.shields.io/badge/Python-00ff88?style=flat&logo=python&logoColor=0b1f14" />
-        <img src="https://img.shields.io/badge/QML-00ff88?style=flat&logo=qt&logoColor=0b1f14" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3>4) 📈 Breakout Detection Bot</h3>
+      <h3>5) 📈 Breakout Detection Bot</h3>
       <p>Automated breakout scanner using price action / volume logic.</p>
       <p>
         <a href="https://github.com/amanksingh678/Breakout_detection_bot">Repo</a> •
-        <img src="https://img.shields.io/badge/Python-00ff88?style=flat&logo=python&logoColor=0b1f14" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>5) 🧠 Indic OCR GAN Recognization</h3>
-      <p>OCR + deep learning project for Indic text recognition.</p>
-      <p>
-        <a href="https://github.com/amanksingh678/indic_ocr_gan_recognization">Repo</a> •
         <img src="https://img.shields.io/badge/Python-00ff88?style=flat&logo=python&logoColor=0b1f14" />
       </p>
     </td>
