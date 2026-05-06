@@ -174,11 +174,9 @@ Distributed Systems | Spark | Databricks
 
 ---
 
-## 🐍 Contribution Snake
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/amanksingh678/amanksingh678/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanksingh678&theme=github_dark" />
 
 </div>
 
