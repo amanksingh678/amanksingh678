@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:00c853&height=190&section=header&text=Aman%20Singh&fontSize=56&fontColor=0b1f14&animation=twinkling&fontAlignY=36" />
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=900&color=00FF88&center=true&vCenter=true&width=980&lines=AI+Engineer+%7C+Quant+Developer+%7C+Automation+Builder;AI+%26+Data+Science+%7C+Trading+Systems+%7C+Automation;Python+Developer+%7C+Quant+Finance+Enthusiast;Computer+Vision+%7C+OCR+%7C+Deep+Learning;Building+systems+that+ship+%E2%80%94+fast+and+reliable" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=900&color=00FF88&center=true&vCenter=true&width=980&lines=AI+Engineer+%7C+Quant+Developer+%7C+Automation+Builder+%7C+Coder" />
 </p>
 
 <p>
@@ -158,18 +158,18 @@ Distributed Systems | Spark | Databricks
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=amanksingh678&show_icons=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=i-amanksingh&show_icons=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanksingh678&layout=compact&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-amanksingh&layout=compact&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9&hide_border=true" />
 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=amanksingh678&theme=dark&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=i-amanksingh&theme=dark&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanksingh678&theme=github-compact&bg_color=0D1117&color=00FF88&line=00FF88&point=C9D1D9&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=i-amanksingh&theme=github-compact&bg_color=0D1117&color=00FF88&line=00FF88&point=C9D1D9&hide_border=true" />
 </div>
 
 ---
@@ -205,3 +205,4 @@ while alive:
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:003b1f&height=120&section=footer&animation=fadeIn" />
+
