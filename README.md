@@ -1,4 +1,4 @@
-<!-- Profile README for amanksingh678 -->
+<!-- Profile README for i_amanksingh -->
 
 <div align="center">
 
@@ -9,8 +9,8 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=amanksingh678&label=Profile%20Views&color=00ff88&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/amanksingh678?label=Followers&style=for-the-badge&color=00ff88" />
+  <img src="https://komarev.com/ghpvc/?username=i_amanksingh&label=Profile%20Views&color=00ff88&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/i_amanksingh?label=Followers&style=for-the-badge&color=00ff88" />
   <a href="https://www.linkedin.com/in/aman-singh-a8481b32a/">
     <img src="https://img.shields.io/badge/LinkedIn-Aman%20Singh-00ff88?style=for-the-badge&logo=linkedin&logoColor=0b1f14" />
   </a>
